@@ -53,7 +53,8 @@ def get_jobs(keyword, num_jobs, verbose,slp_time):
             if len(jobs) >= num_jobs:
                 break
 
-            job_button.click()  # You might
+            #job_button.click()  # You might
+            driver.execute_script("arguments[0].click();",job_button)
             time.sleep(1)
             collected_successfully = False
 

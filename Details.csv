@@ -1,0 +1,367 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data Scientist,$72K-$120K (Glassdoor est.),"Join Our Growing Team
+A career with A Place for Mom is an opportunity for you to join a rapidly expanding company committed to making a difference for seniors and their families. A Place for Mom is an online platform connecting families searching for senior care services with a team of experienced advisors providing insight-driven and personalized solutions. Our mission, as the leader in senior care advisory, is to be a trusted destination for families and our community customers. We are a quickly growing organization with over 500 advisors connecting more than 300K families every year to one of our community customers.
+Living by our values and working to achieve excellence on behalf of our customers is integral to success at A Place for Mom. Employees who thrive at A Place for Mom live our values every day and are an important part of our hiring practices:
+Focus on Excellence
+Act with Integrity & Assume Positive Intent
+Drive Outcomes Every Day with Passion and A Sense of Mission
+Make the Lives of our Families and Customers Better, Easier and More Successful
+Realize the Full Potential in Each Team Member. Work as a Single Supportive Team
+The Position
+Based in New York, NY or Overland Park, KS, the Data Scientist builds prediction algorithms that help serves families and our senior living community customers more efficiently. This position will support the sales teams in our efforts to drive continued market share growth. The Data Scientist will work within the Commercial Operations team to increase efficiency and improve the customer experience through the application of statistics and machine learning. This position will support the Sales & Operations teams in our efforts to drive greater market share, improve move-in conversion and grow our bottom line.
+Who You Are
+You are a self-starter who is passionate about increasing efficiency and improving the customer experience through the application of statistics and machine learning. You are able to work independently and lead efforts to drive lead prioritization, customer segmentation, enhanced data analysis, experimental design & testing, business intelligence, and business reporting. You are a strong communicator and enjoy working with talented and driven people that will challenge you to reach the next level.
+
+Incorporate APFM Values into each customer and co-worker interaction
+Design implement and maintain models that optimize the customer experience and help our sales team prioritize the right leads at the right time
+Develop predictive models that balance accuracy with human interpretability and help evaluate and improve the early stages of the sales funnel
+Deign experiments to test the impact of models on customer conversion and other metrics
+Evolve a Random Forest based model that sorts leads near the end of their journey through the sales process
+Manage & monitor the day to day operation of the servers running existing models and their connection to data repositories
+Develop and evaluate models that segment customers at a number of steps along the sales process, with the ultimate goal of improving the customer’s experience through segmentation
+Operate and maintain tools that combine disparate data sources and are written in python and R while developing novel ways to utilize the vast amounts of data that APFM maintains
+Collaborate with teams throughout APFM to identify the appropriate metrics, define effective test groups, design experiments, calculate samples sizes and evaluate the results of these tests
+Investigate business problems and validate assumptions through statistical analysis
+Assist the analyst team in generating reports, troubleshooting reports and pulling data to better understand Commercial Operations and Sales trends & performance
+Act as the primary lead for the team’s machine learning and statistics who can define a path forward to address business questions in these areas
+As the team grows and the need for statistics and machine learning increases we anticipate that the Data Scientist will manage at least one data analyst
+
+2+ years applying statistical and machine-learning methods to solve business problems
+Strong SQL skills
+Strong Python programming skills; additional experience in R nice to have but not required
+Experience maintaining code repositories in git
+Sharp problems solving skills and strong statistics skills
+Strong fundamentals and intuition in applied statistics for both prediction and explanation
+Able to build, optimize, and test prediction and forecasting models
+Familiarity with basic Linux tools
+Able to quickly understand business problems and implement experimental designs
+Able to balance analytical rigor against meeting deadlines
+Knowledge of causal analysis methods
+Excellent presentation, writing, and data visualization skills
+Experience using AWS to implement data science workflows is a plus
+Experience working with product managers and business stakeholders to build products driven by prediction models and insights from data analysis
+Ability to convey machine learning and statistics concepts to non-experts
+Education Requirements.
+Bachelor’s degree in technical field required.
+Compensation
+The position is a salaried, exempt position.
+#LI-AR1",3.0,"A Place for Mom
+3.0","Overland Park, KS","New York, NY",501 to 1000 employees,2000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,"Enlivant, Sunrise Senior Living, Brookdale Senior Living"
+Data Scientist,$72K-$120K (Glassdoor est.),"Secure our Nation, Ignite your Future
+
+Summary
+
+The successful candidate will possess a diverse range of data-focused skills and experience, both technical and analytical. They will have a strong desire and capability for problem solving, data analysis and troubleshooting, analytical thinking, and experimentation.
+
+Duties, Tasks & Responsibilities
+Working with large, complex, and disparate data sets
+Designing and implementing innovative ways to analyze and exploit the Sponsors data holdings
+Researching and reporting on a wide variety of Sponsor inquiries
+Raising proactive inquiries to the Sponsor based on observations and proposed data analysis/exploitation
+Solving difficult, non-routine problems by applying advanced analytical methodologies, and improving analytic methodologies
+Developing custom searches
+Communicating and coordinating with internal and external partners as needed
+Required Experience, Skills, & Technologies
+Thorough knowledge of appropriate analytic tools and methodologies in one or more of the following:
+Applied mathematics (e.g. probability and statistics, formal modeling, computational social sciences)
+Computer programming (e.g. programming languages, math/statistics packages, computer science, machine learning, scientific computing)
+Ability to code or script in one or more general programming language
+Experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+Knowledge of relational databases, including SQL and large-scale distributed systems (e.g. Hadoop)
+Expertise with statistical data analysis (e.g. linear models, multivariate analysis, stochastic models, sampling methods)
+Demonstrated effectiveness in collecting information and accurately representing/visualizing it to non-technical third parties
+TS/SCI with Polygraph
+Desired Experience, Skills & Technologies
+Previous investigative experience, using a combination of technical and analytic skills
+#LI-SS2
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.1,"ManTech
+4.1","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1
+Data Scientist,$72K-$120K (Glassdoor est.),"Preferred Qualifications
+Masters degree or doctorate in statistics or another applied science field or equivalent experience
+Considerable experience with statistical tools and packages (e.g., SAS, SPSS, Minitab, R) and methods to incorporate statistical results into analyses
+Proficiency in at least one programming language, such as Python, Java or C/C++
+Strong knowledge of statistical methods, particularly in the areas of modeling and business analytics
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+Ability to communicate complex quantitative analysis in a clear, precise and actionable manner
+Experience with modeling and forecasting
+Working knowledge of standard querying with SQL
+Advanced hands-on experience with the Microsoft Office suite
+Proven track record as a lead resource for the business
+Strong written and verbal communication skills
+Job Summary
+
+The Data Scientist works with business owners and Technology teams to provide deep analysis and guidance on crucial business opportunities across many areas within the company. They draw upon their knowledge and experience in applied statistics, data mining, modeling and forecasting to ensure that results are accurate and clear, providing actionable opportunities for business leaders. The Data Scientist must be detail-oriented and highly aware of the impact of their analysis and solutions across the company. They take initiative and focus on finding innovative solutions for a myriad of business challenges.
+
+Responsibilities
+Work closely with various teams across the company to identify and solve business challenges utilizing large structured, semi-structured and unstructured data
+Drive the collection of new data and the refinement of existing data sources for deep statistical analysis and modeling
+Clean data in preparation for analysis and modeling
+Perform statistical summaries and tests for relevant business questions
+Develop predictive statistical, behavioral or other models via supervised and unsupervised machine learning, statistical analysis and other modeling techniques
+Translate business opportunities into data-driven machine learning and modeling solutions that revamp the business process
+Deploy applicable models into production system for business use
+Perform statistical testing to enhance the predictability of deployed models
+Summarize conclusions and solutions for presentation
+Develop strong relationships with subject matter experts
+Develop best practices for experimentation
+Who We Are
+
+Amrock is one of the largest providers of title insurance, property valuations and settlement services in the nation. The company is an authorized agent of the highest-rated title insurers in the industry, and its solutions power many of the nation's largest residential lending institutions. Amrock is a preferred provider to five of the top 20 Fortune 100 companies and many of the largest residential mortgage lenders. The company is based in Detroit and retains regional operating centers in Ohio, California, Pennsylvania and Texas.
+
+Disclaimer
+
+This is an outline of the primary responsibilities of this position. As with everything in life, things change. The tasks and responsibilities can be changed, added to, removed, amended, deleted and modified at any time by the leadership group.",3.7,"Amrock
+3.7","Detroit, MI","Detroit, MI",1001 to 5000 employees,1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),-1
+Data Scientist,$72K-$120K (Glassdoor est.),"Data Scientist
+Affinity Solutions / Marketing Cloud seeks smart, curious, technically savvy candidates to join our cutting-edge data science team. We hire the best and brightest and give them the opportunity to work on industry-leading technologies.
+The data sciences team at AFS/Marketing Cloud build models, machine learning algorithms that power all our ad-tech/mar-tech products at scale, develop methodology and tools to precisely and effectively measure market campaign effects, and research in-house and public data sources for consumer spend behavior insights. In this role, you'll have the opportunity to come up with new ideas and solutions that will lead to improvement of our ability to target the right audience, derive insights and provide better measurement methodology for marketing campaigns. You'll access our core data asset and machine learning infrastructure to power your ideas.
+Duties and Responsibilities
+· Support all clients model building needs, including maintaining and improving current modeling/scoring methodology and processes,
+· Provide innovative solutions to customized modeling/scoring/targeting with appropriate ML/statistical tools,
+· Provide analytical/statistical support such as marketing test design, projection, campaign measurement, market insights to clients and stakeholders.
+· Mine large consumer datasets in the cloud environment to support ad hoc business and statistical analysis,
+· Develop and Improve automation capabilities to enable customized delivery of the analytical products to clients,
+· Communicate the methodologies and the results to the management, clients and none technical stakeholders.
+Basic Qualifications
+· Advanced degree in Statistics/Mathematics/Computer Science/Economics or other fields that requires advanced training in data analytics.
+· Being able to apply basic statistical/ML concepts and reasoning to address and solve business problems such as targeting, test design, KPI projection and performance measurement.
+· Entrepreneurial, highly self-motivated, collaborative, keen attention to detail, willingness and capable learn quickly, and ability to effectively prioritize and execute tasks in a high pressure environment.
+· Being flexible to accept different task assignments and able to work on a tight time schedule.
+· Excellent command of one or more programming languages; preferably Python, SAS or R
+· Familiar with one of the database technologies such as PostgreSQL, MySQL, can write basic SQL queries
+· Great communication skills (verbal, written and presentation)
+Preferred Qualifications
+· Experience or exposure to large consumer and/or demographic data sets.
+· Familiarity with data manipulation and cleaning routines and techniques.",2.9,"Affinity Solutions
+2.9","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee"
+Data Scientist,$72K-$120K (Glassdoor est.),"Clearance: Active TS/SCI and willing to undergo CI Poly
+
+Required Skills:
+Experience in the following:
+Synthetic Aperture Radar (SAR) AGI collections systems (both space-borne and airborne), operations, phenomenology, and their impact on SAR AGI processing, analysis, and exploitation
+Spectral sensor disciplines (spectral, radar, LiDAR, infrared, or photogrammetry).
+Advanced formal training in remote sensing and/or earth science/physical science, or engineering/mathematical disciplines
+Knowledge in the science of infrared image formation, imaging radar system technology and collection parameters, processing, and radiometric analysis
+Detailed experience using AGI processing and exploitation software
+Demonstrated experience using COTS image software (e.g. ENVI, ERDAS Imagine), COTS desktop software (e.g. MS Office), and the Windows and UNIX operating environments Of particular importance are software packages used for the processing and analysis of imaging radar data.
+Demonstrated strong writing and briefing skills consistent with national-level performance; this includes the skills needed to prepare NGA Imagery Intelligence Brief reports
+Experience with SAR instruction highly desired",3.6,"Affinity Solutions
+2.9","New York, NY","Charlottesville, VA",51 to 200 employees,2008,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+Data Scientist,$72K-$120K (Glassdoor est.),"Job Title: Data Scientists
+
+Job Description
+Join an elite group dedicated to continuous personal improvement as GCT is currently seeking Data Scientists of all levels to support an intelligence agency with insights gained from analyzing voluminous sensor data. The ideal candidate is adept at using large data sets to find opportunities for process optimization and using models to test the effectiveness of different courses of action. Candidates must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Clearance: TS/SCI w/Full scope polygraph (or used within the past 24 months)
+
+Education/Experience Requirements
+
+Senior Positions:
+Masters degree in Data Science, Statistics, Mathematics, Computer Science or another quantitative field, or extensive comparable experience
+10+ years of relevant experience
+Junior/Intermediate Positions
+Completed B.S. in Data Science, Mathematics, Statistics, Computer Science, Computer Engineering, or a closely related technical field
+3-9 years of relevant experience
+Qualifications
+Experience using statistical computer languages (SAS, SPSS, R, Python, SLQ, etc.) to manipulate data and draw insights fromlarge data sets
+Experience working with and creating data architectures
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Excellent written and verbal communication skills
+Strong problem solving skills
+A drive to learn and master new technologies and techniques
+Desired Skills
+Experience manipulating data sets and building statistical models
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, Bayes, etc.
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Experience using web services: Redshift, S3, Spark, DigitalOcean, AWS, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+The success of Great-Circle Technologies depends on the success and well-being of its employees. GCT promotes work/life balance and encourages the overall well-being of each of its contributors. A comprehensive benefits package is provided, which currently includes company paid single medical, dental, life, disability, and long-term care insurances (with contributions to family premiums,) matching 401k plan, 34 days off per year including 10 Federal holidays plus the day after Thanksgiving, Christmas and New Year’s eves!
+
+Join us at Great-Circle Technologies, where innovation is the shortest distance between two points.
+
+Great-Circle Technologies is an Equal Opportunity Employer. Great-Circle Technologies ensures all qualified applicants will receive consideration for employment without regard to gender, race, ethnic background, religion, disability, sexual orientation, gender identity, national origin, age, or protected veteran status.",2.2,"Great-Circle Technologies
+2.2","Chantilly, VA","Chantilly, VA",1 to 50 employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),-1
+Data Scientist,$72K-$120K (Glassdoor est.),"Are you performance-driven and want your impact to actually matter? Do you want to personally grow and use that expertise to transform your company, industry and the world itself? Do you want to be part of a family that works and plays together; that believes anything is possible and then goes after it?
+
+At goTRG we are designing next generation applications/Software and robotics to achieve more with less.
+
+goTRG is:
+Re-defining basic business functions like warehouse management and resource planning
+Pioneering new omnichannel e-commerce breakthroughs
+Inventing innovative robotics and automation tools
+Using our technology to help our partners achieve greater profitability, and reduce their environmental footprint
+goTRG has doubled sales in the last three years, we are now ramping up for serious growth. We are looking for valued and passionate associates in every functional area.
+
+Position: Data Scientist
+
+Department: Product Development
+
+Reports to: Director of BI
+
+Position Summary:
+
+The successful incumbent will conduct exploratory analysis, build prototype models to generate insights and then execute these models in production as an integrated part of the company's software systems. The successful candidate will be someone who can transform research and insights into real business value via scale-able production algorithms and applications.
+
+The algorithms and tools you build will provide users with the information they need to make proper decisions and automate processes across the company.
+
+Responsibilities:
+Build models to estimate the expected value and demand of products available for sale
+Build decision engine applications that simulate supply chain activities and select the path of highest profitability
+Participate in the development of sophisticated data collection and synthesis algorithms
+Implement all the above in a way that is scalable, enterprise-quality and integrated with other software systems
+Build front-end interfaces
+Visualize data in way that tells compelling narratives
+Requirements
+Minimum 5 years experience in a Data Science / similar role
+Prototyping languages - Python and R
+Java, Scala and C
+Hadoop ecosystem
+Apache Spark
+SQL
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests
+Good applied statistics skills, such as distributions, statistical testing, regression
+Data visualization
+Bonus Skills:
+Knowledge of web crawling / scraping
+HTML/CSS/JavaScript
+d3.js and other libraries or frameworks for dynamic data visualization
+Experience with web scraping/crawling frameworks
+About goTRG
+
+goTRG is a leader in the implementation and execution of multi-channel and supply chain solutions. The company’s innovative R1 technology powers every touch, movement and decision for the world’s largest companies resulting in superior net margins, controls and sell-through.
+
+goTRG has processed and sold 35 million units with a retail value of over $2.3 billion in the last year. 100,000 SKU’s are simultaneously listed on 22 marketplaces with a retail value of over $100 million. R1 has collected and curated data for over 38 million UPC’s from over 50 marketplaces in the last year.",3.9,"goTRG
+3.9","Miami, FL","Miami, FL",501 to 1000 employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1
+SAR Imagery Scientist - Expert TO11 #79 TS/SCI,$72K-$120K (Glassdoor est.),"Position 7a:SAR Imagery Scientist (Expert-Level)
+
+Overall Assignment Description:
+
+Synthetic Aperture Radar (SAR) Imagery Scientist (IS) has a detailed understanding of radar phenomenology from the signal processing phase and the resulting information delivered in the complex phase history data for intelligence exploitation across the enterprise.They understand the application of non-literal imagery and how to apply complex mathematical algorithms to extract relevant intelligence information.They have developed numerous testing plans to evaluate the performance of a variety of types of algorithms when applied to radar data in order to support Order of Battle.The IS possess the knowledge of how to design performance testing to verify and validate a broad range of radar based algorithms.The results of this developed process shall be incorporated into all future radar based algorithms development for application to NSG radar data.
+
+The IS will work as a team member of the NSG Radar Ground program using best practices from other NGA programs and organizations working on algorithm verification and validation.
+
+Providing matrixed support to the ATT Sensor Engagement Lead for Radar, the IS serves as a key member of the customer’s technical team and a focal point for mission engineering, mission integration, and development oversight.
+
+Duties may include:
+Engage with customers and users to define future enterprise-level capabilities
+Lead or participate in customer and program strategic and tactical planning activities relevant to Radar
+Lead or participate in the development of radar process that will be included in the overall enterprise system architectures to test, verify and validate Radar algorithms
+Assess new technologies and their overall performance
+Conduct Analysis of Alternatives (AoAs) and provide data-driven recommendations
+Leverage SAR experiences to provide insight on the development of key technical products, such as capability roadmaps, CONOPS documents, and white papers
+Leverage SAR experiences to provide insight on the identification, tracking, mitigation, and resolution technical risks and issues to ensure the timely, functionally efficient, and cost effective stand-up of new capabilities
+Identify project key decision points and provide Go/No-Go recommendations
+Conduct user outreach to communicate enterprise-level architecture changes, operational concepts, and project status, and accept user inputs for optimization of delivery plans
+Produce weekly activity reports for use by government customers and the program
+Ability to develop and present effective technical presentations to senior management and to technical/non-technical audiences; must possess strong written and verbal communications skills
+Ability to explain technical issues clearly/accurately to technical/non-technical audiences; and conduct issue coordination within and across agencies
+Ability to work with customers to resolve technical and programmatic issues
+
+Skills and Experience:
+
+Required:
+Bachelor's degree in Computer Science, Imagery Science, Mathematics, Engineering, or a related STEM degree program, or related equivalent additional experience.
+Expert-level experience working in government or industry in relevant work areas including: DoD/IC Acquisition Process, Requirements Process, PPBES Process or systems engineering of large complex System of Systems or Service Oriented Architecture environments residing in cloud, on premise, or hybrid infrastructures.
+10+ years of SAR imagery science with a minimum of 6 years of recent agency-specific experience.
+5+ years of related experience with systems engineering, systems integration, or systems development.
+
+Desired:
+Master’s degree in Computer Science, Imagery Science, Mathematics, Engineering, or related STEM degree program.
+5+ years of experience in the SAR discipline of GEOINT analytic tradecraft designing and testing algorithm performance.
+3+ years of experience in the use or engineering of GIS applications.
+Demonstrated knowledge of the ODNI Analytic Modernization effort and its supporting elements, including ABI and SOM.",3.6,"Shine Systems
+3.6","Chantilly, VA","Charlottesville, VA",51 to 200 employees,2008,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+Data Scientist,$72K-$120K (Glassdoor est.),"Job Description
+
+
+Avlino Inc. is seeking experienced data scientists to join our growing team
+of AI engineers, analysts, and quantitative developers. The role involves
+model construction, information extraction, prediction and finding solutions
+to large-scale problems for mission critical applications using large
+derived from a broad spectrum of domains for industry specific sectors. The
+ideal candidate will have comprehensive expertise in machine learning,
+time-series analysis modeling, statistical data analysis, and deep neural
+networks. Experience with dynamic programming and reinforcement learning is
+a plus.
+
+Demonstrate your experience in creating real-world artificial intelligence
+applications using pulsing customer data sets!
+
+This is a great opportunity for an experienced Data Scientist with 4+ years
+of relevant experience to work in a fast-paced environment where they can
+share their passion for numbers and AI.
+
+Responsibilities
+Develop, implement, and use a broad set of machine-learning models and
+quantitative techniques for prediction and classification for mission
+critical applications.
+To find problems in industrial and service sector applications.
+Strong background in numerical techniques, optimization, and gradient
+methods.
+Development of new machine learning algorithms and/or substantial
+modification of pre-existing techniques.
+Analysis of high-volume, noisy, heterogeneous real-time data.
+Collaborate with business analysts to transform customer needs into
+actionable insights.
+Design custom end user reports that are easy to read and interpret for
+multiple business unit audiences.
+Architect the next generation analytical platform.
+Capable of de novo implementation of mathematical models, or to avail
+widely used open source programming platforms and libraries (Scala, R,
+python, TensorFlow).
+
+Requirements
+MUST: Solid 5 years of experience in machine learning, statistical
+modeling, data mining, time-series forecasting, and neural networks.
+MUST: Solid 5 years of experience working with big data technologies
+distributed computing such as Hadoop/Spark, Map/Reduce, TensorFlow.
+MUST: Solid 5 years of experience in multiple programming languages –
+C#/.NET, C++, C, Scala, Python, R, Java.
+Experience in developing or implementing enterprise class Data Analytics
+and BI solutions.
+Extremely analytical and able to solve problems independently.
+Assesses customer requirements and translate them to appropriate
+deliverables.
+MUST: Have an analytical mind, and on point with detailed specifics.
+MUST: Education: MS/Ph.D. (Preferred) in Computer Science, Physics, or a
+related discipline.
+PLUS: Experience in the logistics or transportation industry.",4.9,"Avlino
+4.9",New Jersey,"Holmdel, NJ",1 to 50 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),-1
+Data Scientist,$72K-$120K (Glassdoor est.),"New England Biolabs is seeking a Data Scientist to build, improve and utilize the varied and complex data sources we use to make excellent biological products.
+
+NEB provides a world-class working environment including high quality computational infrastructure, skilled colleagues, and opportunities to exchange knowledge with internal and external scientists.
+
+Primary Responsibilities:
+
+Construct, extend, and maintain scientific software tools used at NEB to study enzymes and their activities. Collaborate with members of the Research, Product Development, Production, and Quality Control groups to identify patterns and trends in quantitative scientific data.
+
+Required Qualifications and Experience:
+Degree in a computational field and meaningful experience working with varied and complex datasets.
+Software development skills (Ruby, Python, R, or others).
+Appreciation for simple, high-quality, maintainable software.
+Enthusiasm for data modeling, storage and visualization.
+Demonstrated oral and written communication skills.
+Strong work ethic, emphasizing both efficiency and quality of work.
+Accessible evidence of software development history (e.g., GitHub).
+Passion for learning.
+Interest in applications of biologically derived tools to address important challenges.
+Preferred Qualifications and Experience:
+Expertise with high volume analysis of data from many sources.
+Experience with virtualization technologies (kubernetes, cvmfs, lxc).
+Experience with infrastructure automation tools (Ansible, Chef, Salt, etc.)
+Modern web development skills (HTML5, Rails, Vue.js, etc.).
+Cluster computing and scientific workflow frameworks (Galaxy, Nextflow, snakemake, CWL, etc.).
+New England Biolabs, Inc. is an Equal Opportunity/Affirmative Action Employer of Minorities, Females, Disabled and Protected Veterans and a participating employer in the Employment Verification (E-Verify) program. More in-depth details of EEO are available here.
+
+If you need an accommodation for any part of the employment process because of a medical condition or disability, please send an email to hr@neb.com or call 978-927-5054 to let us know the nature of your request.",4.9,"New England Biolabs
+4.9","Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina"
